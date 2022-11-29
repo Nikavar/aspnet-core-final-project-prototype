@@ -1,1 +1,1 @@
-#Epam Course_AspNet Core_final-project-prototype
+#AspNet_Core_final-project-prototype
